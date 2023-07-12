@@ -1,5 +1,5 @@
 # Flask_Web
-This a simple online market developed in the Python Flask framework.
+This a simple online market developed in the Python Flask framework and Bootstrap.
 I've used the concept of 
 - Authorization
 - Authentication
