@@ -6,6 +6,7 @@ I've used the concept of
 - CRUD Operations
 ## To run the app
 1. *Set the Flask app environment variable*<br>
+**cd Flask_web**
 **$ export FLASK_APP=run.py**
 
 2. *enable Flask's debug mode to automatically reload the app on code changes*<br>
